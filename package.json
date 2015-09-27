@@ -1,0 +1,15 @@
+{
+  "name": "Tunc_Dogan_POC",
+  "version": "0.0.0",
+  "description": "Lighting Simulator",
+  "private": true,
+  "dependencies": {
+
+	"debug": "latest",
+    "socket.io": "latest",
+     "express": "latest"
+
+
+  },
+  "author": "Tunc Dogan"
+}
