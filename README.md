@@ -1,6 +1,10 @@
 # Lighting-Simulator-with-Node.js
 # Description:
-    This is the sample Real time lighting simulator for multiple users.There are 12 lambs.Users can open or close multiple lambs in same time.When a user open or close the lamb, all other users can see the process.When a lamb is opened or closed, no user can make opening or closing the same lamb during 5 seconds.Furthermore, user can request by using cURL.
+    This is the sample Real time lighting simulator for multiple users.
+    There are 12 lambs.Users can open or close multiple lambs in same time.
+    When a user open or close the lamb, all other users can see the process.
+    When a lamb is opened or closed, no user can make opening or closing the same lamb during 5 seconds.
+    Furthermore, user can request by using cURL.
     
 # Technologies used:
 
